@@ -50,3 +50,39 @@ def hello():
     return render_template("hello.html",
                            title="Best_Title",
                            user=user)
+
+
+@first_app.route('/hi_if')
+def hi_if():
+    '''hi_if
+
+    Use if/else in template.
+    '''
+
+    user = {'name': 'UserName007'}
+
+    return render_template("hi_if.html",
+                           title="This is Title",
+                           user=user)
+
+
+@first_app.route('/hi_for')
+def hi_for():
+    '''hi_for
+
+    Use for loop in html template.
+    '''
+
+    posts = [
+                {
+                    "author": {"name": "eden"},
+                    "body": "Marten Eden"
+                },
+                {
+                    "author": {"name": "bill"},
+                    "body": "Bill Gates - Road in the way"
+                }
+            ]
+
+    return render_template("hi_for.html",
+            posts=posts)
