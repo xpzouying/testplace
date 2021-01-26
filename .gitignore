@@ -28,3 +28,6 @@ _testmain.go
 # python virtualenv
 venv/
 .venv/
+
+# macos
+.DS_Store
