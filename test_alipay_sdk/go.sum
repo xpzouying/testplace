@@ -1,0 +1,8 @@
+github.com/smartwalle/alipay/v3 v3.2.11 h1:OGljVIMt8GHW275DavgoMwTpgTsJcBzBmeQuNyizzls=
+github.com/smartwalle/alipay/v3 v3.2.11/go.mod h1:qrZdNalF0cx8zRldQAZ9r4nqsbqWeZXps27i+GPMEa0=
+github.com/smartwalle/ncrypto v1.0.2 h1:pTAhCqtPCMhpOwFXX+EcMdR6PNzruBNoGQrN2S1GbGI=
+github.com/smartwalle/ncrypto v1.0.2/go.mod h1:Dwlp6sfeNaPMnOxMNayMTacvC5JGEVln3CVdiVDgbBk=
+github.com/smartwalle/nsign v1.0.8 h1:78KWtwKPrdt4Xsn+tNEBVxaTLIJBX9YRX0ZSrMUeuHo=
+github.com/smartwalle/nsign v1.0.8/go.mod h1:eY6I4CJlyNdVMP+t6z1H6Jpd4m5/V+8xi44ufSTxXgc=
+github.com/smartwalle/xid v1.0.6 h1:aZ52pzrFSpzg+AIbSsiBxadjAZRctvDSkp5AokOHuFw=
+github.com/smartwalle/xid v1.0.6/go.mod h1:zUe+B9M8IClU9Jj0HoZATmaX14TkP2L7L3ogF+UlhWk=

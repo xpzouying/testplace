@@ -31,3 +31,4 @@ venv/
 
 # macos
 .DS_Store
+.idea
